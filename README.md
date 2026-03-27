@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
+![Scientific](https://img.shields.io/badge/Field-Materials%20Science-orange)
 # Voronoi‑ICOBI Coordination Analyzer
 
 **Robust coordination number analysis from Voronoi polyhedra with optional bonding validation using LOBSTER ICOBI values.**
