@@ -27,24 +27,6 @@ It supports:
 
 ---
 
-## Suggested Repository Name
-
-Recommended GitHub repository name:
-
-```
-voronoi-icobi-coordination
-```
-
-Alternative names:
-
-```
-voronoi-bonding-analysis
-voronoi-coordination-lobster
-coordination-number-analyzer
-```
-
----
-
 ## Features
 
 - Pure Python implementation
@@ -544,18 +526,6 @@ MIT License
 
 ---
 
-## Contact
-
-Maintainer:
-
-```
-Your Name
-Your Institution
-Your Email
-```
-
----
-
 ## Version Compatibility
 
 Tested with:
@@ -568,19 +538,6 @@ pymatgen 2024
 LOBSTER 5.1.1
 VASP 5.x / 6.x
 ```
-
----
-
-## Future Extensions (optional)
-
-Possible improvements:
-
-- automatic cutoff detection
-- neighbor shell classification
-- structure visualization export
-- batch directory processing
-- CIF support
-- parallel execution
 
 ---
 
