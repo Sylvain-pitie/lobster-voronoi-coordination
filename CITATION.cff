@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Voronoi Coordination Analysis with ICOBI Bond Filtering
+message: If you use this software, please cite it using the metadata below.
+type: software
+
+authors:
+
+* family-names: Pitié
+  given-names: Sylvain
+
+version: 1.0.0
+date-released: 2026-01-01
+
+repository-code: https://github.com/yourusername/lobster-voronoi-coordination
+
+keywords:
+
+* Voronoi
+* coordination number
+* ICOBI
+* LOBSTER
+* materials science
+* bonding analysis
+
+license: MIT
